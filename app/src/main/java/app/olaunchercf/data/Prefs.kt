@@ -8,6 +8,7 @@ import android.util.Log
 import androidx.core.content.getSystemService
 import app.olaunchercf.helper.getUserHandleFromString
 import java.lang.RuntimeException
+import app.olaunchercf.data.Constants.PREFS_FILENAME
 
 private const val APP_LANGUAGE = "app_language"
 private const val PREFS_FILENAME = "app.olauncher"
